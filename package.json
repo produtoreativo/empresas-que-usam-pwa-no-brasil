@@ -1,0 +1,23 @@
+{
+  "name": "empresas-que-usam-pwa-no-brasil",
+  "version": "1.0.0",
+  "description": "Repositório para informar quais empresas ou produtos são construídos em PWA no Brasil.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/produtoreativo/empresas-que-usam-pwa-no-brasil.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/produtoreativo/empresas-que-usam-pwa-no-brasil/issues"
+  },
+  "homepage": "https://github.com/produtoreativo/empresas-que-usam-pwa-no-brasil#readme",
+  "dependencies": {
+    "chrome-launcher": "^0.11.2",
+    "lighthouse": "^5.2.0"
+  }
+}
