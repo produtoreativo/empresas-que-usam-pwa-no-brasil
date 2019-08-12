@@ -5,9 +5,9 @@ Esse repo foi **inspirado** em [Empresas que usam React no Brasil](https://githu
 
 > OBS: Antes de realizar sua contribuição dê uma olhada nas [regras](https://github.com/produtoreativo/empresas-que-usam-pwa-no-brasil/blob/master/CONTRIBUTING.md)
 
-Nome | Cidade | Tecnologias Relacionadas | Score  
-:------------: | ------------------------ | ------------ | ---------------
-
+Nome | Site | Cidade | Tecnologias Relacionadas | Score  
+:------------: | ------------- | ------------------------ | ------------ | ---------------
+Ifood | https://www.ifood.com.br | São Paulo | React, Redux | 0.74
 
 ## Licença
 
