@@ -9,6 +9,7 @@ Nome | Site | Cidade | Tecnologias Relacionadas | Score
 :------------: | ------------- | ------------------------ | ------------ | ---------------
 Buscapé | https://www.buscape.com.br/ | São Paulo | React, Redux, Redux-Thunk, Router | 0.48
 Ifood | https://www.ifood.com.br | São Paulo | React, Redux | 0.74  
+Beleza na Web | https://www.belezanaweb.com.br/ | São Paulo | 1.00  
 
 ## Licença
 
