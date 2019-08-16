@@ -12,6 +12,9 @@ BrazilJS | https://braziljs.org/ | Porto Alegre | PHP, Wordpress, Web Components
 Buscapé | https://www.buscape.com.br/ | São Paulo | React, Redux, Redux-Thunk, Router | 0.48  
 Gympass | https://www.gympass.com/ | São Paulo | | 0.52
 Ifood | https://www.ifood.com.br | São Paulo | React, Redux | 0.74  
+Melissa | https://www.melissa.com.br | Farroupilha | Javascript, jQuery | 1.00  
+Minimelissa | https://www.minimelissa.com.br | Farroupilha | Javascript, jQuery | 0.96  
+Mor | https://www.mor.com.br | Santa Cruz do Sul | Javascript, jQuery | 1.00  
 
 ## Licença
 
