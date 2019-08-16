@@ -12,6 +12,7 @@ BrazilJS | https://braziljs.org/ | Porto Alegre | PHP, Wordpress, Web Components
 Buscapé | https://www.buscape.com.br/ | São Paulo | React, Redux, Redux-Thunk, Router | 0.48  
 Gympass | https://www.gympass.com/ | São Paulo | | 0.52
 Ifood | https://www.ifood.com.br | São Paulo | React, Redux | 0.74  
+Ignis | https://app.cod.ignisfit.com | Fortaleza | Vue.JS, Firestore, Material Design Lite | 0.93
 
 ## Licença
 
