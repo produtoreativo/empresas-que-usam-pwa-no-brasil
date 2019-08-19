@@ -7,6 +7,7 @@ Esse repo foi **inspirado** em [Empresas que usam React no Brasil](https://githu
 
 Nome | Site | Cidade | Tecnologias Relacionadas | Score  
 :------------: | ------------- | ------------------------ | ------------ | ---------------
+B2W | https://www.americanas.com.br/ | São Paulo | React, Redux, ReduxForm, Router | 0.33
 Beleza na Web | https://www.belezanaweb.com.br/ | São Paulo | React, React Native, Redux, Styled Components, AngularJS, NodeJS | 1.00 
 BrazilJS | https://braziljs.org/ | Porto Alegre | PHP, Wordpress, Web Components, JavaScript, Node.JS | 0.48 
 Buscapé | https://www.buscape.com.br/ | São Paulo | React, Redux, Redux-Thunk, Router | 0.48 
