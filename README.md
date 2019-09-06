@@ -12,6 +12,7 @@ Beleza na Web | https://www.belezanaweb.com.br/ | São Paulo | React, React Nati
 BrazilJS | https://braziljs.org/ | Porto Alegre | PHP, Wordpress, Web Components, JavaScript, Node.JS | 0.48 
 Buscapé | https://www.buscape.com.br/ | São Paulo | React, Redux, Redux-Thunk, Router | 0.48 
 CEJS  | https://www.cejs.com.br/ | Fortaleza, CE | React, Material-ui, CRA | 1.00
+Coza  | https://www.coza.com.br/ | Caxias do Sul, RS | Javascript, jQuery | 0.74
 Gympass | https://www.gympass.com/ | São Paulo | | 0.52
 Ifood | https://www.ifood.com.br | São Paulo | React, Redux | 0.74  
 Melissa | https://www.melissa.com.br | Farroupilha | Javascript, jQuery | 1.00  
