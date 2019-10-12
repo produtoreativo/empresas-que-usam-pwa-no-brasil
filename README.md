@@ -19,6 +19,7 @@ Ifood | https://www.ifood.com.br | São Paulo | React, Redux | 0.74
 Melissa | https://www.melissa.com.br | Farroupilha | Javascript, jQuery | 1.00  
 Minimelissa | https://www.minimelissa.com.br | Farroupilha | Javascript, jQuery | 0.96  
 Mor | https://www.mor.com.br | Santa Cruz do Sul | Javascript, jQuery | 1.00  
+Posthaus | https://m.posthaus.com.br | Blumenau | React (SSR) | 0.74
 QuintoAndar | http://quintoandar.com.br | São Paulo | React | 0.74
 Reebok |  https://www.reebok.com.br | São Paulo | React, redux | 0.48
 Terra | https://www.terra.com.br | São Paulo | jQuery | 0.74
