@@ -17,6 +17,7 @@ Cubo Network | https://cubo.network/ | São Paulo, SP | Angular | 0.96
 Dafiti | https://pwa.dafiti.com.br | São Paulo | Ionic, angularJS | 0.94
 Gympass | https://www.gympass.com/ | São Paulo | | 0.52
 Ifood | https://www.ifood.com.br | São Paulo | React, Redux | 0.74  
+Lojas Renner | https://www.lojasrenner.com.br | Porto Alegre | Vue, jQuery | 0.52
 Melissa | https://www.melissa.com.br | Farroupilha | Javascript, jQuery | 1.00  
 Minimelissa | https://www.minimelissa.com.br | Farroupilha | Javascript, jQuery | 0.96  
 Mor | https://www.mor.com.br | Santa Cruz do Sul | Javascript, jQuery | 1.00  
