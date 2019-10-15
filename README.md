@@ -13,6 +13,7 @@ BrazilJS | https://braziljs.org/ | Porto Alegre | PHP, Wordpress, Web Components
 Buscapé | https://www.buscape.com.br/ | São Paulo | React, Redux, Redux-Thunk, Router | 0.48 
 CEJS  | https://www.cejs.com.br/ | Fortaleza, CE | React, Material-ui, CRA | 1.00
 Coza  | https://www.coza.com.br/ | Caxias do Sul, RS | Javascript, jQuery | 0.74
+Cubo Network | https://cubo.network/ | São Paulo, SP | Angular | 0.96
 Dafiti | https://pwa.dafiti.com.br | São Paulo | Ionic, angularJS | 0.94
 Gympass | https://www.gympass.com/ | São Paulo | | 0.52
 Ifood | https://www.ifood.com.br | São Paulo | React, Redux | 0.74  
