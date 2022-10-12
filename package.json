@@ -18,6 +18,6 @@
   "homepage": "https://github.com/produtoreativo/empresas-que-usam-pwa-no-brasil#readme",
   "dependencies": {
     "chrome-launcher": "^0.11.2",
-    "lighthouse": "^5.2.0"
+    "lighthouse": "^9.6.7"
   }
 }
